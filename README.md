@@ -1,7 +1,6 @@
 ## Hi, I'm Queen/Reina
 
-[<!--
-**queenkigigha/queenkigigha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ](https://www.linkedin.com/in/queenkigigha/)
 
 I'm a data analyst with a focus on turning raw data into clear, actionable insights.
